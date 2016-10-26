@@ -1,0 +1,22 @@
+
+.body{
+    background-color:blue;
+    background-color:#E4E4E4;
+    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+}
+.sampleStyle{
+	width:150px;
+	height:30px;
+	color:white;
+	background-color:#4281d0;
+	border-radius:4px;
+	cursor:pointer;
+	line-height:30px;
+	text-align:center;
+}
+.sampleStyle:hover{
+	background-color:#81ABE0;
+
+}
